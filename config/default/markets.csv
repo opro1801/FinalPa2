@@ -1,0 +1,3 @@
+resouce_type,init_quantity,max_quantity,max_marginal_price
+Coal, 13, 14, 8
+Iron,  8, 10, 6

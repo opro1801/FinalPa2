@@ -1,0 +1,62 @@
+location,industry_type,count
+Belper,Cotton Mill,1
+Belper,Manufacturer,1
+Belper,Coal Mine,1
+Belper,Pottery,1
+Derby,Cotton Mill,2
+Derby,Manufacturer,1
+Derby,Iron Works,1
+Derby,Brewery,1
+Leek,Cotton Mill,2
+Leek,Manufacturer,1
+Leek,Coal Mine,1
+Stoke-on-Trent,Cotton Mill,1
+Stoke-on-Trent,Manufacturer,2
+Stoke-on-Trent,Pottery,1
+Stoke-on-Trent,Iron Works,1
+Stone,Coal Mine,1
+Stone,Brewery,1
+Stone,Cotton Mill,1
+Stone,Manufacturer,1
+Uttoxeter,Brewery,2
+Uttoxeter,Cotton Mill,1
+Uttoxeter,Manufacturer,1
+Stafford,Brewery,1
+Stafford,Manufacturer,1
+Stafford,Pottery,1
+Burton-on-Trent,Coal Mine,1
+Burton-on-Trent,Manufacturer,1
+Burton-on-Trent,Brewery,1
+Cannock,Coal Mine,2
+Cannock,Manufacturer,1
+Cannock,Brewery,1
+Tamworth,Coal Mine,2
+Tamworth,Cotton Mill,2
+Walsall,Iron Works,1
+Walsall,Brewery,1
+Walsall,Manufacturer,2
+Coalbrookdale,Coal Mine,1
+Coalbrookdale,Iron Works,2
+Coalbrookdale,Brewery,1
+Dudley,Coal Mine,1
+Dudley,Iron Works,1
+Kidderminster,Cotton Mill,2
+Kidderminster,Coal Mine,1
+Wolverhampton,Coal Mine,1
+Wolverhampton,Manufacturer,2
+Worcester,Cotton Mill,2
+Worcester,Brewery,1
+Birmingham,Iron Works,1
+Birmingham,Cotton Mill,1
+Birmingham,Manufacturer,3
+Coventry,Coal Mine,1
+Coventry,Iron Works,1
+Coventry,Manufacturer,2
+Coventry,Pottery,1
+Nuneaton,Coal Mine,1
+Nuneaton,Brewery,1
+Nuneaton,Cotton Mill,1
+Nuneaton,Manufacturer,1
+Redditch,Coal Mine,1
+Redditch,Iron Works,1
+Redditch,Manufacturer,1
